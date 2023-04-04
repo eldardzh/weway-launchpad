@@ -8,3 +8,4 @@ This log tracks architectural and documentation refinements.
 - `2023-02-24` — more precise stack list
 - `2023-04-03` — production status update
 - `2023-04-03` — badge refresh
+- `2023-04-04` — more precise stack list
