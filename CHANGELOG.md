@@ -13,3 +13,4 @@ This log tracks architectural and documentation refinements.
 - `2023-04-05` — rephrase capabilities
 - `2023-04-05` — refine engineering invariants
 - `2023-04-17` — refine engineering invariants
+- `2023-04-18` — tighten architecture overview
