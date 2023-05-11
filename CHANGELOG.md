@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2023-04-18` — tighten architecture overview
 - `2023-04-20` — trailing whitespace
 - `2023-04-21` — capabilities — clarify wording
+- `2023-05-11` — scope clarification
