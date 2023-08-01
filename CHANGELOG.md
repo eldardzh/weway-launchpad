@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2023-05-11` — scope clarification
 - `2023-05-11` — badges + status
 - `2023-05-11` — contact block tidy
+- `2023-08-01` — license notice
