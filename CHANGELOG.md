@@ -24,3 +24,4 @@ This log tracks architectural and documentation refinements.
 - `2023-09-28` — badges + status
 - `2023-09-28` — production status update
 - `2023-09-30` — link external references
+- `2023-10-21` — surface key invariants
