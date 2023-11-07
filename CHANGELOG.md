@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2023-10-31` — production status update
 - `2023-11-03` — expand 'My Role' section
 - `2023-11-03` — terminology cleanup
+- `2023-11-07` — capabilities — clarify wording
