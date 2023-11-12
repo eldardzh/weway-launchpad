@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2023-11-03` — terminology cleanup
 - `2023-11-07` — capabilities — clarify wording
 - `2023-11-08` — badge refresh
+- `2023-11-12` — terminology cleanup
