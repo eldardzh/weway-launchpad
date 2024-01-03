@@ -34,3 +34,4 @@ This log tracks architectural and documentation refinements.
 - `2023-11-19` — tighten architecture overview
 - `2023-11-21` — contact block tidy
 - `2023-11-28` — refine engineering invariants
+- `2024-01-04` — expand 'My Role' section
