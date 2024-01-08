@@ -36,3 +36,4 @@ This log tracks architectural and documentation refinements.
 - `2023-11-28` — refine engineering invariants
 - `2024-01-04` — expand 'My Role' section
 - `2024-01-04` — surface key invariants
+- `2024-01-08` — rephrase capabilities
