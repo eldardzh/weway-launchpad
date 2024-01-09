@@ -38,3 +38,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-04` — surface key invariants
 - `2024-01-08` — rephrase capabilities
 - `2024-01-09` — tighten architecture overview
+- `2024-01-09` — improve mermaid diagram
