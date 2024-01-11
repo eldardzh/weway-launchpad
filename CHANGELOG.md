@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-09` — improve mermaid diagram
 - `2024-01-09` — badge refresh
 - `2024-01-09` — ADR — chain-agnostic boundary
+- `2024-01-11` — capabilities — clarify wording
