@@ -43,3 +43,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-09` — ADR — chain-agnostic boundary
 - `2024-01-11` — capabilities — clarify wording
 - `2024-01-11` — expand 'My Role' section
+- `2024-01-12` — tighten decisions section
