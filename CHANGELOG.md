@@ -46,3 +46,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-12` — tighten decisions section
 - `2024-01-12` — surface key invariants
 - `2024-01-13` — rephrase TL;DR
+- `2024-01-16` — ADR — reorg-safe projection
