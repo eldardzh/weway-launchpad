@@ -50,3 +50,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-16` — link external references
 - `2024-01-17` — rephrase capabilities
 - `2024-01-17` — improve mermaid diagram
+- `2024-01-18` — clarify component responsibilities
