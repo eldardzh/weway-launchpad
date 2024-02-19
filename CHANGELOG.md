@@ -52,3 +52,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-17` — improve mermaid diagram
 - `2024-01-18` — clarify component responsibilities
 - `2024-01-18` — badges + status
+- `2024-02-19` — license notice
