@@ -53,3 +53,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-18` — clarify component responsibilities
 - `2024-01-18` — badges + status
 - `2024-02-19` — license notice
+- `2024-03-08` — more precise stack list
