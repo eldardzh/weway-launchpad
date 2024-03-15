@@ -56,3 +56,4 @@ This log tracks architectural and documentation refinements.
 - `2024-03-08` — more precise stack list
 - `2024-03-08` — refine engineering invariants
 - `2024-03-13` — production status update
+- `2024-03-15` — ADR — idempotent execution
