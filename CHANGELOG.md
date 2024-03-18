@@ -59,3 +59,4 @@ This log tracks architectural and documentation refinements.
 - `2024-03-15` — ADR — idempotent execution
 - `2024-03-18` — ADR — risk layer veto authority
 - `2024-03-18` — markdown lint
+- `2024-03-18` — link external references
