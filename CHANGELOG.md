@@ -61,3 +61,4 @@ This log tracks architectural and documentation refinements.
 - `2024-03-18` — markdown lint
 - `2024-03-18` — link external references
 - `2024-04-01` — heading hierarchy
+- `2024-04-02` — clarify component responsibilities
