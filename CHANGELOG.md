@@ -65,3 +65,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-03` — ADR — queue-backed mutations
 - `2024-05-21` — refine engineering invariants
 - `2024-05-23` — rephrase capabilities
+- `2024-05-23` — heading hierarchy
