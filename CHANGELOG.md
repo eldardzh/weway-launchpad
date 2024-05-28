@@ -68,3 +68,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-23` — heading hierarchy
 - `2024-05-23` — surface key invariants
 - `2024-05-27` — rephrase capabilities
+- `2024-05-28` — cross-link related repositories
