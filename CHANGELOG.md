@@ -72,3 +72,4 @@ This log tracks architectural and documentation refinements.
 - `2024-06-14` — rephrase TL;DR
 - `2024-06-14` — rephrase capabilities
 - `2024-09-05` — terminology cleanup
+- `2024-09-05` — terminology cleanup
