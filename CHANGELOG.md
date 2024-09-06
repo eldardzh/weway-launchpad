@@ -74,3 +74,4 @@ This log tracks architectural and documentation refinements.
 - `2024-09-05` — terminology cleanup
 - `2024-09-05` — terminology cleanup
 - `2024-09-06` — cross-link related repositories
+- `2024-09-06` — ADR — audit append-only store
