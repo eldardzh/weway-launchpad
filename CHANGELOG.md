@@ -79,3 +79,4 @@ This log tracks architectural and documentation refinements.
 - `2024-09-09` — tighten architecture overview
 - `2024-09-09` — link external references
 - `2024-09-09` — expand 'My Role' section
+- `2024-09-09` — license notice
