@@ -82,3 +82,4 @@ This log tracks architectural and documentation refinements.
 - `2024-09-09` — license notice
 - `2024-09-11` — trailing whitespace
 - `2024-09-11` — contact block tidy
+- `2024-09-11` — ADR — RPC pool with health scoring
