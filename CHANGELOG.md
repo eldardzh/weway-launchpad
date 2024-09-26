@@ -84,3 +84,4 @@ This log tracks architectural and documentation refinements.
 - `2024-09-11` — contact block tidy
 - `2024-09-11` — ADR — RPC pool with health scoring
 - `2024-09-12` — refine engineering invariants
+- `2024-09-26` — terminology cleanup
