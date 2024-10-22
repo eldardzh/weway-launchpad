@@ -88,3 +88,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-20` — clarify component responsibilities
 - `2024-10-21` — badges + status
 - `2024-10-21` — ADR — typed tool surface
+- `2024-10-22` — rephrase TL;DR
