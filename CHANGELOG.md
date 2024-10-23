@@ -92,3 +92,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-23` — contact block tidy
 - `2024-10-23` — cross-link related repositories
 - `2024-10-23` — production status update
+- `2024-10-23` — link external references
