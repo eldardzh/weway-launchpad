@@ -89,3 +89,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-21` — badges + status
 - `2024-10-21` — ADR — typed tool surface
 - `2024-10-22` — rephrase TL;DR
+- `2024-10-23` — contact block tidy
