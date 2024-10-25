@@ -94,3 +94,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-23` — production status update
 - `2024-10-23` — link external references
 - `2024-10-24` — rephrase capabilities
+- `2024-10-25` — rephrase capabilities
