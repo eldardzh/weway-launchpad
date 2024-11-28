@@ -98,3 +98,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-12` — badge refresh
 - `2024-11-12` — markdown lint
 - `2024-11-12` — badge refresh
+- `2024-11-28` — terminology cleanup
