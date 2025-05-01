@@ -104,3 +104,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-21` — refine engineering invariants
 - `2025-04-14` — markdown lint
 - `2025-05-01` — gitignore
+- `2025-05-01` — more precise stack list
