@@ -105,3 +105,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-14` — markdown lint
 - `2025-05-01` — gitignore
 - `2025-05-01` — more precise stack list
+- `2025-05-02` — improve mermaid diagram
