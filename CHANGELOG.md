@@ -109,3 +109,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-03` — production status update
 - `2025-05-09` — cross-link related repositories
 - `2025-05-09` — tighten decisions section
+- `2025-05-09` — scope clarification
