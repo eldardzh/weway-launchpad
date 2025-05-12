@@ -113,3 +113,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-09` — expand 'My Role' section
 - `2025-05-09` — rephrase TL;DR
 - `2025-05-11` — heading hierarchy
+- `2025-05-12` — contact block tidy
