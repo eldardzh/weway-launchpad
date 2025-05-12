@@ -115,3 +115,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-11` — heading hierarchy
 - `2025-05-12` — contact block tidy
 - `2025-05-12` — badges + status
+- `2025-05-12` — clarify component responsibilities
