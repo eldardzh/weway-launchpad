@@ -117,3 +117,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-12` — badges + status
 - `2025-05-12` — clarify component responsibilities
 - `2025-05-22` — rephrase capabilities
+- `2025-05-22` — link external references
