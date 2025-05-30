@@ -122,3 +122,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-22` — contact block tidy
 - `2025-05-28` — contact block tidy
 - `2025-05-29` — terminology cleanup
+- `2025-05-30` — rephrase TL;DR
