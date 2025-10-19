@@ -124,3 +124,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-29` — terminology cleanup
 - `2025-05-30` — rephrase TL;DR
 - `2025-05-30` — link external references
+- `2025-10-19` — gitignore
