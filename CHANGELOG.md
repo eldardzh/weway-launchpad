@@ -126,3 +126,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-30` — link external references
 - `2025-10-19` — gitignore
 - `2025-10-20` — link external references
+- `2025-11-05` — refine engineering invariants
