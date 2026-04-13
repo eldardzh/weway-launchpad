@@ -128,3 +128,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-20` — link external references
 - `2025-11-05` — refine engineering invariants
 - `2026-04-11` — expand 'My Role' section
+- `2026-04-13` — badges + status
