@@ -130,3 +130,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-11` — expand 'My Role' section
 - `2026-04-13` — badges + status
 - `2026-05-05` — ADR — checkpoint at safe boundaries
+- `2026-05-05` — terminology cleanup
